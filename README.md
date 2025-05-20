@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Materials Scientist | Educator | Developer-in-Progress\*\*
 ----------------------------------------------------------
 
-Welcome to my GitHub! I'm a passionate Materials and Metallurgical Engineer, with a growing skill set in machine learning, and a deep commitment to leveraging science and technology for sustainable solutions. I teach Mathematics and Physics at College while developing projects integrating materials science, machine learning, and web development.
+I'm a passionate Materials and Metallurgical Engineer, with a growing skill set in machine learning, and a deep commitment to leveraging science and technology for sustainable solutions. I teach Mathematics and Physics at College while developing projects integrating materials science, machine learning, and web development.
 
 ### Languages, Tools and Skills Skills
 <p align="left">
